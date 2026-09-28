@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="assets/preview.svg" alt="AFX-PC-Optimizer preview" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/features.svg" alt="AFX-PC-Optimizer features" width="100%" />
+  <img src="assets/website-preview.svg" alt="AFX PC Optimizer website preview" width="100%" />
 </p>
 
 # AFX PC Optimizer
