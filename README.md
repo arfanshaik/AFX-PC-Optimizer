@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/preview.svg" alt="AFX-PC-Optimizer preview" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/features.svg" alt="AFX-PC-Optimizer features" width="100%" />
+</p>
+
 # AFX PC Optimizer
 
 A lightweight Windows PC/laptop optimizer built with Python and Tkinter.
